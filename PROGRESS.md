@@ -1,6 +1,7 @@
 # 云中书 YunType — 项目进度文档
 
-> 更新时间：2026-04-13 18:13
+> 更新时间：2026-05-17 11:45
+> 状态：✅ Git 仓库已同步到 GitHub (git@github.com:Drumondxia/ceshixiangmu.git)
 
 ---
 
